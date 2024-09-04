@@ -1,1 +1,29 @@
-# web
+<html>
+<head>
+   
+    <title>Carrera de Desarrollo de Software</title>
+</head>
+<body>
+<h1>TEMA: HTML en bloc de notas</h1>
+<h2>Integrantes del Trabajo</h2>
+  <p> GRUPO 13 </p>  
+<p class="small-text">-Carlos Alvarado Castro</p>
+<p class="small-text">-Jardel Alvarado Villafuerte</p>
+
+<h1>¿Qué es HTML?</h1>
+
+<p>Es el lenguaje más básico que nos permite desarrollar contenido en la web, elementos como texto, las imágenes, enlaces, videos, forms, y otros elementos interactivos. Este ue desarrollado por Tim Berners-Lee en 1991, abreviadamente se lo conoce como HTML y su significado es HyperText Markup Language, que en español vendría a ser Lenguaje de Marcado de Hipertexto, este es un lenguaje estándar usado para la creación páginas web.</p>
+
+<img src="https://www.gamelab.id/uploads/news/berita-213-belajar-mengenal-dasar-html-20200716-163110.png" width="300" height="200" alt="HTML">
+
+<p>Hay que recordar que HTML no es un lenguaje de programación, sino un lenguaje de marcado como lo dice su propio nombre, ya que no realiza cálculos ni procesos lógicos, sino que define la estructura del contenido. Un archivo HTML es interpretado por los navegadores web (como Chrome, Firefox, Safari, etc.), que renderizan el contenido de acuerdo con las etiquetas y su jerarquía.</p>
+
+    <h1>Carrera de Desarrollo de Software</h1>
+   <a href="Página 2.html"> Click al siguiente link para ir a la información de esta carrera </a> 
+
+    
+
+</body>
+
+
+</html>
